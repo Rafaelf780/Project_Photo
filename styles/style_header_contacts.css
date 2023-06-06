@@ -1,0 +1,74 @@
+/* HEADER */
+
+.site-header { 
+
+    border-bottom: 1px solid #ccc;
+    padding: .5em 1em;
+    display: flex;
+    justify-content: space-between;
+
+}
+      
+.site-identity h1 {
+
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 1.8em;
+    margin: .3em 0;
+    font-size: 200;
+    display: inline-block;
+    
+}
+      
+      
+.site-navigation ul, 
+.site-navigation li {
+    margin: 0; 
+    padding: 0;
+}
+      
+.site-navigation li {
+    display: inline-block;
+    margin: 1.4em 1em 1em 1em;
+}
+
+
+
+/* CONTACTS PAGE */
+
+
+
+.button{
+
+    display: flex;
+    justify-content: end;
+    padding: 1%;
+}
+
+li{
+    list-style: none;
+}
+
+.icons{
+
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding:2%;
+    
+}
+
+.about_t{
+    text-align: center;
+}
+
+.about{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    padding: 5% 10%;
+    text-align: center;
+    
+}

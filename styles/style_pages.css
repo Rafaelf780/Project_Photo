@@ -1,0 +1,28 @@
+.box{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.tittle_pag{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.text_pag{
+
+    display: flex;
+    justify-content: center;
+}
+
+.alone_img{
+
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+
+}
