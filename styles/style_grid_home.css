@@ -1,84 +1,84 @@
 
 #one{
     grid-area: b1;
-    background: url(/udacity/pics/pic1.png);
+    background: url(/pics/pic1.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat; 
 }
 #two{
     grid-area: b2;
-    background: url(/udacity/pics/pic2.png);
+    background: url(/pics/pic2.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #three{
     grid-area: b3;
-    background: url(/udacity/pics/pic3.png);
+    background: url(/pics/pic3.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #four{
     grid-area: b4;
-    background: url(/udacity/pics/pic4.png);
+    background: url(/pics/pic4.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #five{
     grid-area: b5;
-    background: url(/udacity/pics/pic5.png);
+    background: url(/pics/pic5.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #six{
     grid-area: b6;
-    background: url(/udacity/pics/pic6.png);
+    background: url(/pics/pic6.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #seven{
     grid-area: b7;
-    background: url(/udacity/pics/pic7.png);
+    background: url(/pics/pic7.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #eight{
     grid-area: b8;
-    background: url(/udacity/pics/pic8.png);
+    background: url(/pics/pic8.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #nine{
     grid-area: b9;
-    background: url(/udacity/pics/pic9.png);
+    background: url(/pics/pic9.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #ten{
     grid-area: b10;
-    background: url(/udacity/pics/pic10.png);
+    background: url(/pics/pic10.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #eleven{
     grid-area: b11;
-    background: url(/udacity/pics/pic11.png);
+    background: url(/pics/pic11.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
 }
 #twelve{
     grid-area: b12;
-    background: url(/udacity/pics/pic12.png);
+    background: url(/pics/pic12.png);
     background-size: cover;
     background-position: 100%;
     background-repeat:no-repeat;
